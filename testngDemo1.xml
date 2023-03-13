@@ -1,0 +1,9 @@
+
+<suite name="Suite1">
+  <test thread-count="5" name="Test1">
+    <classes>
+      <class name="TestNGPracties.TestNGDemo1"/>
+      <class name="TestNGPracties.TestNGDemo2"/>
+    </classes>
+  </test>
+</suite> 
